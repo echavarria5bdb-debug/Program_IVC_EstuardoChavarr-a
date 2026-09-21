@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\Problema2_EstuardoChvarriaIVC\Problema2_EstuardoChvarriaIVC\bin\Debug\net10.0-windows\Problema2_EstuardoChvarriaIVC.exe
+C:\Users\HP\source\repos\Problema2_EstuardoChvarriaIVC\Problema2_EstuardoChvarriaIVC\bin\Debug\net10.0-windows\Problema2_EstuardoChvarriaIVC.deps.json
+C:\Users\HP\source\repos\Problema2_EstuardoChvarriaIVC\Problema2_EstuardoChvarriaIVC\bin\Debug\net10.0-windows\Problema2_EstuardoChvarriaIVC.runtimeconfig.json
+C:\Users\HP\source\repos\Problema2_EstuardoChvarriaIVC\Problema2_EstuardoChvarriaIVC\bin\Debug\net10.0-windows\Problema2_EstuardoChvarriaIVC.dll
+C:\Users\HP\source\repos\Problema2_EstuardoChvarriaIVC\Problema2_EstuardoChvarriaIVC\bin\Debug\net10.0-windows\Problema2_EstuardoChvarriaIVC.pdb
+C:\Users\HP\source\repos\Problema2_EstuardoChvarriaIVC\Problema2_EstuardoChvarriaIVC\obj\Debug\net10.0-windows\Problema2_EstuardoChvarriaIVC.Form1.resources
+C:\Users\HP\source\repos\Problema2_EstuardoChvarriaIVC\Problema2_EstuardoChvarriaIVC\obj\Debug\net10.0-windows\Problema2_EstuardoChvarriaIVC.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Problema2_EstuardoChvarriaIVC\Problema2_EstuardoChvarriaIVC\obj\Debug\net10.0-windows\Problema2_EstuardoChvarriaIVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Problema2_EstuardoChvarriaIVC\Problema2_EstuardoChvarriaIVC\obj\Debug\net10.0-windows\Problema2_EstuardoChvarriaIVC.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Problema2_EstuardoChvarriaIVC\Problema2_EstuardoChvarriaIVC\obj\Debug\net10.0-windows\Problema2_EstuardoChvarriaIVC.AssemblyInfo.cs
+C:\Users\HP\source\repos\Problema2_EstuardoChvarriaIVC\Problema2_EstuardoChvarriaIVC\obj\Debug\net10.0-windows\Problema2_EstuardoChvarriaIVC.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Problema2_EstuardoChvarriaIVC\Problema2_EstuardoChvarriaIVC\obj\Debug\net10.0-windows\Problema2_EstuardoChvarriaIVC.dll
+C:\Users\HP\source\repos\Problema2_EstuardoChvarriaIVC\Problema2_EstuardoChvarriaIVC\obj\Debug\net10.0-windows\refint\Problema2_EstuardoChvarriaIVC.dll
+C:\Users\HP\source\repos\Problema2_EstuardoChvarriaIVC\Problema2_EstuardoChvarriaIVC\obj\Debug\net10.0-windows\Problema2_EstuardoChvarriaIVC.pdb
+C:\Users\HP\source\repos\Problema2_EstuardoChvarriaIVC\Problema2_EstuardoChvarriaIVC\obj\Debug\net10.0-windows\Problema2_EstuardoChvarriaIVC.genruntimeconfig.cache
+C:\Users\HP\source\repos\Problema2_EstuardoChvarriaIVC\Problema2_EstuardoChvarriaIVC\obj\Debug\net10.0-windows\ref\Problema2_EstuardoChvarriaIVC.dll
