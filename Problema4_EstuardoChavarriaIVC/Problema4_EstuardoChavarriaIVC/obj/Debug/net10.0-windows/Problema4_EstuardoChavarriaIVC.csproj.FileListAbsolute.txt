@@ -1,0 +1,17 @@
+C:\Users\COORD OBRA SOCIAL\source\repos\Problema4_EstuardoChavarriaIVC\Problema4_EstuardoChavarriaIVC\bin\Debug\net10.0-windows\Problema4_EstuardoChavarriaIVC.exe
+C:\Users\COORD OBRA SOCIAL\source\repos\Problema4_EstuardoChavarriaIVC\Problema4_EstuardoChavarriaIVC\bin\Debug\net10.0-windows\Problema4_EstuardoChavarriaIVC.deps.json
+C:\Users\COORD OBRA SOCIAL\source\repos\Problema4_EstuardoChavarriaIVC\Problema4_EstuardoChavarriaIVC\bin\Debug\net10.0-windows\Problema4_EstuardoChavarriaIVC.runtimeconfig.json
+C:\Users\COORD OBRA SOCIAL\source\repos\Problema4_EstuardoChavarriaIVC\Problema4_EstuardoChavarriaIVC\bin\Debug\net10.0-windows\Problema4_EstuardoChavarriaIVC.dll
+C:\Users\COORD OBRA SOCIAL\source\repos\Problema4_EstuardoChavarriaIVC\Problema4_EstuardoChavarriaIVC\bin\Debug\net10.0-windows\Problema4_EstuardoChavarriaIVC.pdb
+C:\Users\COORD OBRA SOCIAL\source\repos\Problema4_EstuardoChavarriaIVC\Problema4_EstuardoChavarriaIVC\obj\Debug\net10.0-windows\Problema4_EstuardoChavarriaIVC.Form1.resources
+C:\Users\COORD OBRA SOCIAL\source\repos\Problema4_EstuardoChavarriaIVC\Problema4_EstuardoChavarriaIVC\obj\Debug\net10.0-windows\Problema4_EstuardoChavarriaIVC.csproj.GenerateResource.cache
+C:\Users\COORD OBRA SOCIAL\source\repos\Problema4_EstuardoChavarriaIVC\Problema4_EstuardoChavarriaIVC\obj\Debug\net10.0-windows\Problema4_EstuardoChavarriaIVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COORD OBRA SOCIAL\source\repos\Problema4_EstuardoChavarriaIVC\Problema4_EstuardoChavarriaIVC\obj\Debug\net10.0-windows\Problema4_EstuardoChavarriaIVC.AssemblyInfoInputs.cache
+C:\Users\COORD OBRA SOCIAL\source\repos\Problema4_EstuardoChavarriaIVC\Problema4_EstuardoChavarriaIVC\obj\Debug\net10.0-windows\Problema4_EstuardoChavarriaIVC.AssemblyInfo.cs
+C:\Users\COORD OBRA SOCIAL\source\repos\Problema4_EstuardoChavarriaIVC\Problema4_EstuardoChavarriaIVC\obj\Debug\net10.0-windows\Problema4_EstuardoChavarriaIVC.csproj.CoreCompileInputs.cache
+C:\Users\COORD OBRA SOCIAL\source\repos\Problema4_EstuardoChavarriaIVC\Problema4_EstuardoChavarriaIVC\obj\Debug\net10.0-windows\Problema4_EstuardoChavarriaIVC.dll
+C:\Users\COORD OBRA SOCIAL\source\repos\Problema4_EstuardoChavarriaIVC\Problema4_EstuardoChavarriaIVC\obj\Debug\net10.0-windows\refint\Problema4_EstuardoChavarriaIVC.dll
+C:\Users\COORD OBRA SOCIAL\source\repos\Problema4_EstuardoChavarriaIVC\Problema4_EstuardoChavarriaIVC\obj\Debug\net10.0-windows\Problema4_EstuardoChavarriaIVC.pdb
+C:\Users\COORD OBRA SOCIAL\source\repos\Problema4_EstuardoChavarriaIVC\Problema4_EstuardoChavarriaIVC\obj\Debug\net10.0-windows\Problema4_EstuardoChavarriaIVC.genruntimeconfig.cache
+C:\Users\COORD OBRA SOCIAL\source\repos\Problema4_EstuardoChavarriaIVC\Problema4_EstuardoChavarriaIVC\obj\Debug\net10.0-windows\ref\Problema4_EstuardoChavarriaIVC.dll
+C:\Users\COORD OBRA SOCIAL\source\repos\Problema4_EstuardoChavarriaIVC\Problema4_EstuardoChavarriaIVC\obj\Debug\net10.0-windows\Problema.F1932CE1.Up2Date
